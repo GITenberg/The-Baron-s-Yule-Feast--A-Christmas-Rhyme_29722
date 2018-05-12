@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34108'
     url: http://www.gutenberg.org/2009/agents/34108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29722#The-Baron-s-Yule-Feast--A-Christmas-Rhyme
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2009-08-18'
 gutenberg_type: Text
